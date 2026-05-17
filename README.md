@@ -22,8 +22,6 @@ e-commerce orders across 2017–2018.
 - 14 weeks breached the 10% late delivery threshold
 - Health & Beauty leads on both revenue and customer satisfaction
 
-## Dashboard Preview
-[Add screenshot here]
 
 ## How to Run
 1. Clone the repo
